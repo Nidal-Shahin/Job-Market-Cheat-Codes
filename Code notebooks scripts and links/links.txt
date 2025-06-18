@@ -1,8 +1,0 @@
-1-EDA               Kaggle Link: https://www.kaggle.com/code/omdeh04/eda-final
-2-Preprocessing     Kaggle Link: https://www.kaggle.com/code/nidalshahin/2-preprocessing
-3.1-Regression      Kaggle Link: https://www.kaggle.com/code/nidalshahin/3-1-regression
-3.2-Classification  Kaggle Link: https://www.kaggle.com/code/nidalshahin/3-2-classification
-3.3-Clustering      Kaggle Link: https://www.kaggle.com/code/nidalshahin/3-3-clustering
-
-
-Research Paper OverLeaf link: https://www.overleaf.com/read/qkyfgrwnvjqd#0de265
