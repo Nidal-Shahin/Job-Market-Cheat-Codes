@@ -43,7 +43,7 @@ We used synthetic data to:
 ```bash
 Job-Market-Cheat-Codes/
 │
-├── Research Paper.pdf                # Full research paper (with edits for synthetic context)
+├── Paper.pdf                # Full research paper
 ├── Notebooks/
 │   ├── 1-EDA.ipynb                   # Exploratory Data Analysis
 │   ├── 2-Preprocessing.ipynb         # Heavy feature engineering + text masking + embeddings
