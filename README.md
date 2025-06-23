@@ -47,7 +47,7 @@ We used synthetic data to:
 ```bash
 Job-Market-Cheat-Codes/
 │
-├── Paper.pdf                # Full research paper
+├── Research Paper.pdf                # Full research paper
 ├── Notebooks/
 │   ├── 1-EDA.ipynb                   # Exploratory Data Analysis
 │   ├── 2-Preprocessing.ipynb         # Heavy feature engineering + text masking + embeddings
@@ -60,7 +60,7 @@ Job-Market-Cheat-Codes/
 │   ├── 3.1-Regression.py        
 │   ├── 3.2-Classification.py   
 │   └── 3.3-Clustering.py
-├── links.txt                         # Links to the original dataset, our notebooks on kaggle and the research paper on overleaf
+├── links.txt                         # Links to the original dataset and our notebooks on kaggle
 ├── LICENCE                           # MIT Licence
 └── README.md                         # This file!
 ```
