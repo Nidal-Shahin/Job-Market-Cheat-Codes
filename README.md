@@ -2,6 +2,10 @@
 
 > A machine learning pipeline for analyzing job listings — built entirely on synthetic data, fine-tuned with GPT — to predict salaries, classify job roles, and cluster careers like a data wizard 🎯🧠
 
+📄 **[Read the full paper on arXiv](https://arxiv.org/abs/2506.15879)**  
+📥 Or [download the PDF directly from this repo](./Research Paper.pdf)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2506.15879-b31b1b.svg)](https://arxiv.org/abs/2506.15879)
 ---
 
 ## 🧪 Project Overview
